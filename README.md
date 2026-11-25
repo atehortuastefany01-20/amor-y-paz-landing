@@ -21,7 +21,7 @@ No requiere instalación ni compilación. Abre `index.html` en un navegador o pu
 En `index.html`, reemplaza:
 
 ```js
-const WHATSAPP_NUMBER = 'XXXXXXXXXXXX';
+const WHATSAPP_NUMBER = '';
 ```
 
 por el número real con indicativo de país, sin `+`, espacios ni guiones.
@@ -32,6 +32,6 @@ Ejemplo para Colombia:
 const WHATSAPP_NUMBER = '573001234567';
 ```
 
-## Contenido de demostración
+## Información comercial
 
-Los productos, precios, fotografías y políticas comerciales son demostrativos. Deben reemplazarse o confirmarse antes de publicar la página para clientes reales.
+Antes de promocionar el sitio, confirma que los productos, precios, disponibilidad y condiciones comerciales correspondan a la información vigente de Amor y Paz.
